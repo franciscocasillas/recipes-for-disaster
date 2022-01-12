@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: rgb(194, 21, 21);
+    font-family: sans-serif;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+a {
+    color: rgb(63, 173, 53);
+    font-size: 20px;
+}
